@@ -1,0 +1,10 @@
+*.pyc
+*.db
+
+venv/
+log/
+
+mongrel2.pid
+
+.autonose-depends.pickle
+.vagrant
